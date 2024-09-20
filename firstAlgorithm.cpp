@@ -40,7 +40,7 @@ void getInitialValues(int &P1, int &P2, int &Q, int &max){
     cout << "Enter a (or b): ";
     cin >> max;
 
-    //need error checking to ensure values meet requirements
+    //need error checking to ensure values meet specifications
 }
 
 
